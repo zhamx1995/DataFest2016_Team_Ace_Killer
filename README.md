@@ -15,7 +15,7 @@ Mainly utilizing Java programming, we went through the following procedure. Firs
 <img src="https://cloud.githubusercontent.com/assets/8942049/14234247/323490f8-f9ac-11e5-89cf-b6581aeee013.jpg" width="200"/>
 </p>
 <p align="center">
-<img src="https://cloud.githubusercontent.com/assets/8942049/14234248/342e8580-f9ac-11e5-884a-8a0bcb8a5e62.jpg" width="200"/>
+<img src="https://cloud.githubusercontent.com/assets/8942049/14234248/342e8580-f9ac-11e5-884a-8a0bcb8a5e62.jpg" width="400"/>
 </p>
 
 # Work cited:
